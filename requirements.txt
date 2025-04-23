@@ -1,0 +1,8 @@
+build==1.2.2.post1
+# Editable install with no version control (hello==0.1.0)
+-e /Volumes/Macintosh SSD/Users/m4mini_ex/private/workspace/hello
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.5.0
+pyproject_hooks==1.2.0
+pytest==8.3.5

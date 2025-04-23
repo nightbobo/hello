@@ -1,0 +1,6 @@
+{
+    "python.analysis.autoFormatStrings": true,
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.testing.pytestEnabled": true
+}
