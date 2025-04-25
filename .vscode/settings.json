@@ -1,6 +1,13 @@
 {
+    // 문자열 자동 포맷팅을 활성화합니다 (예: f-string 포맷 검사).
     "python.analysis.autoFormatStrings": true,
+
+    // Pylance를 Python 언어 서버로 설정합니다.
     "python.languageServer": "Pylance",
+
+    // 타입 체킹 모드를 기본(basic)으로 설정합니다.
     "python.analysis.typeCheckingMode": "basic",
+
+    // pytest를 테스트 프레임워크로 활성화합니다.
     "python.testing.pytestEnabled": true
 }
